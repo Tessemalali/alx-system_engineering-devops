@@ -1,36 +1,4 @@
-<<<<<<< HEAD
 #!/usr/bin/env bash
 #Starting apache2 server
 
 service apache2 start
-=======
-pache on designated container
-
-echo "ServerName localhost" >> /etc/apache2.conf
-service apache2 start
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> be630c396b0bfffcf6deb68d2253da24685001a0
